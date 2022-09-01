@@ -12,7 +12,7 @@ Soy un profesional responsable, curioso del conocimiento, proactivo y multidisci
 - 🌱 Soy una persona altamente motivado por aprender y superarse a si mismo constantemente, por lo que me encuentro acerca de los siguientes temas y áreas del conocimiento: AI Aprendizaje Automatico + Algoritmos + Estructuras de Datos + Liderazgo Consciente + Mindset + IOT 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rhjardine)  [https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/rhjardine/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/richardjardine.official)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@richardjardineofficial/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rhjardine)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/rhjardine/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/richardjardine.official)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@richardjardineofficial/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhjardine)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -48,7 +48,7 @@ Soy un profesional responsable, curioso del conocimiento, proactivo y multidisci
 |  <img src="./assets/img/Jira.png" height="20" alt="Jira"/> | <img src="./assets/img/figma.png" height="20" alt="Figma"/> | <img src="./assets/img/ai-logo.png" width="20" alt="Adobe Illustrator"/>  |  <img src="./assets/img/vscode-logo.png" width="25" alt="VS Code"/>  |  <img src="./assets/img/postman-logo.png" height="20" alt="Postman"/>  |  <img src="./assets/img/git.png" height="20" alt="GIT"/>  | <img scr="./assets/img/agile.png" width="20" alt="Agile"/> |   <img src="./assets/img/scrum-logo.png" width="20" alt="SCRUM"/>  |
 
 ### **Competencias Blandas**
-| Agile |  Coaching  |  Gerencia General  |  Liderazgo de Servicios  |  Trabajo Colaborativo  |  Diseño de Productos Digitales | Inteligencia Emocional  | Facilitación  | Dirección de Personas |
+| Agile |  Coaching  |  Gerencia General  |  Liderazgo de Servicios  |  Trabajo Colaborativo  |  Diseño de Productos Digitales | Inteligencia   | Facilitación  | Dirección de Personas |
 
 <!-- <a align="center" href="https:///" >
     <img src="./assets/img/bg-logo.png" width="100" />
