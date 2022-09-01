@@ -1,6 +1,6 @@
 ### Hola 👋, Soy Richard Jardine
 #### Bienvenido! 
-![Busco oportunidades como Frontend Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Busco oportunidades como Frontend Developer ](./assets/img/Banner-RJ.jpg)
 
 En este espacio podrás conocer mis proyectos en desarrollo de software y otras áraes de tecnología
 
@@ -45,7 +45,7 @@ Soy un profesional responsable, curioso del conocimiento, proactivo y multidisci
 #### **Tools and Competencies**
 | Jira |  AI  |  VS Code  |  Postman  |  Git  |  Agile  |  Scrum  |  Kanban  | Trello  |  Figma  | Digital Transformation | Services Management |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|  <img src="./assets/img/figma.png" height="20" alt="Figma"/> | <img src="./assets/img/ai-logo.png" width="20" alt="Adobe Illustrator"/>  |  <img src="./assets/img/vscode-logo.png" width="25" alt="VS Code"/>  |  <img src="./assets/img/postman-logo.png" height="20" alt="Postman"/>  |  <img src="./assets/img/git.png" height="20" alt="GIT"/>  | <img scr="./assets/img/agile.png" width="20" alt="Agile"/> |   <img src="./assets/img/scrum-logo.png" width="20" alt="SCRUM"/>  |
+|  <img src="./assets/img/Jira.png" height="20" alt="Jira"/> | <img src="./assets/img/figma.png" height="20" alt="Figma"/> | <img src="./assets/img/ai-logo.png" width="20" alt="Adobe Illustrator"/>  |  <img src="./assets/img/vscode-logo.png" width="25" alt="VS Code"/>  |  <img src="./assets/img/postman-logo.png" height="20" alt="Postman"/>  |  <img src="./assets/img/git.png" height="20" alt="GIT"/>  | <img scr="./assets/img/agile.png" width="20" alt="Agile"/> |   <img src="./assets/img/scrum-logo.png" width="20" alt="SCRUM"/>  |
 
 <!-- <a align="center" href="https:///" >
     <img src="./assets/img/bg-logo.png" width="100" />
