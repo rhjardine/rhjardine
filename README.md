@@ -24,17 +24,26 @@ Soy un profesional responsable, curioso del conocimiento, proactivo y multidisci
 - If you want to contact me: <a href="https://www.linkedin.com/in/bryan-garcia-fullstack/"><img src="./assets/img/linkedin.png" width="15"> Linkedin</a>
 - 📍 Based on Lima, Perú.  -->
  
-### ***Me conecto con proyectos y trabajos que aporten valor, me gustan los desafios en la que pueda crecer profesionalmente. A la orden ❤.***
+### ***Me conecto con proyectos y trabajos que aporten valor, me gustan los desafios en la que pueda crecer profesionalmente. Estoy a la orden ❤.***
 
 ## Competencias y Herramientas ⚙🔨
 <hr>
 
 #### **Tecnologías Front end**
 
-|  HTML  |  CSS  | Bootstrap  |  JavaScript  |  React  |  Node.js |  Webpack  |
+<!-- |  HTML  |  CSS  | Bootstrap  |  JavaScript  |  React  |  Node.js |  Webpack  |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  <img src="./assets/img/html.png" width="20" alt="HTML"/> | <img src="./assets/img/css.png" width="20" alt="CSS"/>  |  <img src="./assets/img/bootstrap.png" height="20" alt="Boostrap"/>  |  <img src="./assets/img/javascript.png" width="20" alt="JavaScript"/>  |  <img src="./assets/img/react.png" width="20" alt="React JS"/>  |  <img src="./assets/img/flux.png" height="15" alt="FLux"/>  |  <img src="./assets/img/webpack.png" width="20" alt="Webpack"/>  |
+<br> -->
+
+
+|  HTML  |  CSS  |  Bootstrap  |  JavaScript  |  React  |  Flux  |  Webpack  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  <img src="./assets/img/html.png" width="20" alt="HTML"/> | <img src="./assets/img/css.png" width="20" alt="CSS"/>  |  <img src="./assets/img/bootstrap.png" height="20" alt="Boostrap"/>  |  <img src="./assets/img/javascript.png" width="20" alt="JavaScript"/>  |  <img src="./assets/img/react.png" width="20" alt="React JS"/>  |  <img src="./assets/img/flux.png" height="15" alt="FLux"/>  |  <img src="./assets/img/webpack.png" width="20" alt="Webpack"/>  |
 <br>
+
+
+
 
 #### **Tecnologías Back end**
 |  Python  |  Flask  |  PostgreSQL  |  SQL  |  SQL Alchemy  |  REST API  |  Flux  |  Webpack  |
