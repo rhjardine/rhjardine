@@ -33,7 +33,7 @@ Soy un profesional responsable, curioso del conocimiento, proactivo y multidisci
 
 |  HTML  |  CSS  | Bootstrap  |  JavaScript  |  React  |  Node.js |  Webpack  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  <img src="./assets/img/html.png" width="20" alt="HTML"/> | <img src="./assets/img/css.png" width="20" alt="CSS"/>  |  <img src="./assets/img/sass.png" width="25" alt="Sass"/>  |  <img src="./assets/img/bootstrap.png" height="20" alt="Boostrap"/>  |  <img src="./assets/img/javascript.png" width="20" alt="JavaScript"/>  |  <img src="./assets/img/react.png" width="20" alt="React JS"/>  |  <img src="./assets/img/flux.png" height="15" alt="FLux"/>  |  <img src="./assets/img/webpack.png" width="20" alt="Webpack"/>  |
+|  <img src="./assets/img/html.png" width="20" alt="HTML"/> | <img src="./assets/img/css.png" width="20" alt="CSS"/>  |  <img src="./assets/img/agile.png" width="25" alt="Sass"/>  |  <img src="./assets/img/bootstrap.png" height="20" alt="Boostrap"/>  |  <img src="./assets/img/javascript.png" width="20" alt="JavaScript"/>  |  <img src="./assets/img/react.png" width="20" alt="React JS"/>  |  <img src="./assets/img/flux.png" height="15" alt="FLux"/>  |  <img src="./assets/img/webpack.png" width="20" alt="Webpack"/>  |
 <br>
 
 #### **Backend**
@@ -45,8 +45,8 @@ Soy un profesional responsable, curioso del conocimiento, proactivo y multidisci
 #### **Tools and Competencies**
 | Jira |  AI  |  VS Code  |  Postman  |  Git  |  Agile  |  Scrum  |  Kanban  | Trello  |  Figma  | Digital Transformation | Services Management |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|  <img src="./assets/img/figma.png" height="20" alt="Figma"/> | <img src="./assets/img/ai-logo.png" width="20" alt="Adobe Illustrator"/>  |  <img src="./assets/img/vscode-logo.png" width="25" alt="VS Code"/>  |  <img src="./assets/img/postman-logo.png" height="20" alt="Postman"/>  |  <img src="./assets/img/git.png" height="20" alt="GIT"/>  |  <img src="./assets/img/scrum-logo.png" width="20" alt="SCRUM"/>  |
+|  <img src="./assets/img/figma.png" height="20" alt="Figma"/> | <img src="./assets/img/ai-logo.png" width="20" alt="Adobe Illustrator"/>  |  <img src="./assets/img/vscode-logo.png" width="25" alt="VS Code"/>  |  <img src="./assets/img/postman-logo.png" height="20" alt="Postman"/>  |  <img src="./assets/img/git.png" height="20" alt="GIT"/>  | <img scr="./assets/img/agile.png" width="20" alt="Agile" |   <img src="./assets/img/scrum-logo.png" width="20" alt="SCRUM"/>  |
 
-<a align="center" href="https://bryanstgarcia.com/" >
+<!-- <a align="center" href="https:///" >
     <img src="./assets/img/bg-logo.png" width="100" />
-</a>
+</a> -->
