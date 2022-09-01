@@ -1,6 +1,6 @@
 ### Hola 👋, Soy Richard Jardine
 #### Bienvenido! 
-![Busco oportunidades como Frontend Developer ](./assets/img/Banner-RJ.jpg)
+![Busco oportunidades como Frontend Developer ](./assets/img/RJ-banner-github.jpg)
 
 En este espacio podrás conocer mis proyectos en desarrollo de software y otras áraes de tecnología
 
