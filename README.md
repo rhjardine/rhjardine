@@ -2,10 +2,11 @@
 #### Bienvenido! 
 ![Busco oportunidades como Frontend Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-En este espacio encontyraras mis proyectos en Desarrollo de Software
+En este espacio podrás conocer mis proyectos en desarrollo de software y otras áraes de tecnología
+
 Soy un profesional proactivo y multidisciplinar. 
 
-Habilidades: JS / REACT / PYTHON / HTML / CSS / FLASK / SQL / WEBPACK / AGILE COACHING
+Habilidades: JS / REACT / PYTHON / HTML / CSS / FLASK / SQL / WEBPACK / AGILE COACHING / SCRUM / KANBAN / 
 
 - 🔭 Actualmente estoy trabajando en la segunda fase del proyecto Web App AcompañaME (Proyecto Final presentado en 4Geeks Academy Venezuela) 
 - 🌱 Estoy aprendiendo Full Stack Software Development + Aprendizaje Automatico + Algoritmos + Estructuras de Datos 
