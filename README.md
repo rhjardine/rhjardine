@@ -1,12 +1,13 @@
-### Hola 👋, Hola! Soy Richard Jardine
-#### Busco oportunidades como Frontend Developer 
+### Hola 👋, Soy Richard Jardine
+#### Bienvenido! 
 ![Busco oportunidades como Frontend Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Procuro ser un profesional integral. 
+En este espacio encontyraras mis proyectos en Desarrollo de Software
+Soy un profesional proactivo y multidisciplinar. 
 
-Habilidades: JS / REACT / PYTHON / HTML / CSS / FLASK / SQL / AGILE COACHING
+Habilidades: JS / REACT / PYTHON / HTML / CSS / FLASK / SQL / WEBPACK / AGILE COACHING
 
-- 🔭 Estoy trabajando en en la segunda fase del proyecto Web App AcompañaME 
+- 🔭 Actualmente estoy trabajando en la segunda fase del proyecto Web App AcompañaME (Proyecto Final presentado en 4Geeks Academy Venezuela) 
 - 🌱 Estoy aprendiendo Full Stack Software Development + Aprendizaje Automatico + Algoritmos + Estructuras de Datos 
 
 
