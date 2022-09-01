@@ -43,8 +43,6 @@ Soy un profesional responsable, curioso del conocimiento, proactivo y multidisci
 <br>
 
 
-
-
 #### **Tecnologías Back end**
 |  Python  |  Flask  |  PostgreSQL  |  SQL  |  SQL Alchemy  |  REST API  |  Flux  |  Webpack  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -59,6 +57,6 @@ Soy un profesional responsable, curioso del conocimiento, proactivo y multidisci
 ### **Competencias Blandas**
 | Agile |  Coaching  |  Gerencia General  |  Liderazgo de Servicios  |  Trabajo Colaborativo  |  Diseño de Productos Digitales | Inteligencia Emocional  | Facilitación  | Dirección de Personas |
 
-<!-- <a align="center" href="https:///" >
+<a align="center" href="https:///" >
     <img src="./assets/img/bg-logo.png" width="100" />
-</a> -->
+</a> 
