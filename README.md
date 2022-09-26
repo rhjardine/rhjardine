@@ -8,6 +8,13 @@ Soy un profesional responsable, curioso del conocimiento, proactivo y multidisci
 
 <!-- Habilidades: Java Script / React / Python / HTML / CSS / Flask / SQL / WEBPACK / AGILE COACHING / SCRUM / KANBAN /  -->
 
+#### **Tecnologías Front end**
+
+<!-- |  HTML  |  CSS  | Bootstrap  |  JavaScript  |  React  |  Node.js |  Webpack  |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  <img src="./assets/img/html.png" width="20" alt="HTML"/> | <img src="./assets/img/css.png" width="20" alt="CSS"/>  |  <img src="./assets/img/bootstrap.png" height="20" alt="Boostrap"/>  |  <img src="./assets/img/javascript.png" width="20" alt="JavaScript"/>  |  <img src="./assets/img/react.png" width="20" alt="React JS"/>  |  <img src="./assets/img/flux.png" height="15" alt="FLux"/>  |  <img src="./assets/img/webpack.png" width="20" alt="Webpack"/>  |
+<br> -->
+
 - 🔭 Actualmente estoy trabajando en la segunda fase del proyecto Web App AcompañaME (Proyecto Final presentado en 4Geeks Academy Venezuela) 
 - 🌱 Soy una persona altamente motivada por aprender y superarse a si mismo, por lo que me encuentro constantemente estudiando algún tópico que fortalezca mi perfil profesional y personal (Siempre con perspectiva integral) acerca de los siguientes temas y áreas del conocimiento: Inteligencia Artificial + Aprendizaje Automatico + Algoritmos + Estructuras de Datos + Liderazgo Consciente + Mindset Agil + Management + IOT + Mindfullness 
 
