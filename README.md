@@ -6,11 +6,11 @@ En este espacio podrás conocer mis proyectos en desarrollo de software y otras 
 
 Soy un profesional responsable, curioso del conocimiento, proactivo y multidisciplinar. 
 
-<!-- Habilidades: Java Script / React / Python / HTML / CSS / Flask / SQL / WEBPACK / AGILE COACHING / SCRUM / KANBAN /  -->
+<!-- Habilidades: Java / Java Script / ReactJS / Python / HTML / CSS / Flask / SQL / AGILE COACHING / SCRUM / KANBAN /  -->
 
 
 - 🔭 Actualmente estoy trabajando en la segunda fase del proyecto Web App AcompañaME (Proyecto Final presentado en 4Geeks Academy Venezuela) 
-- * Recientemente ingresé a una institución financiera en Venezuela (Bancaribe) como Ingeniero de Software, cumpliendo mi objetivo de transición ee carrera en esta étapa     inicial
+- 🔭 Recientemente ingresé a una institución financiera en Venezuela (Bancaribe) como Ingeniero de Software, cumpliendo mi objetivo de transición ee carrera en esta   étapa     inicial
 - 🌱 Soy una persona altamente motivada por aprender y superarse a si mismo, por lo que me encuentro constantemente estudiando algún tópico que fortalezca mi perfil profesional y personal (Siempre con perspectiva integral) acerca de los siguientes temas y áreas del conocimiento: Inteligencia Artificial + Aprendizaje Automatico + Algoritmos + Estructuras de Datos + Liderazgo Consciente + Mindset Agil + Management + IOT + Mindfullness 
 
 
