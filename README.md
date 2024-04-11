@@ -8,11 +8,11 @@ En este espacio podrás conocer mis proyectos en desarrollo de software y otras 
 
 Soy un profesional responsable, curioso del conocimiento, proactivo y multidisciplinar. 
 
-<!-- Habilidades: Java / Java Script / ReactJS / Python / HTML / CSS / Flask / SQL / AGILE COACHING / SCRUM / KANBAN /  -->
+<!-- Habilidades: Java / JavaScript / ReactJS / Python / HTML / CSS / Flask / SQL / AGILE COACHING / SCRUM / KANBAN /  -->
 
 
-- 🔭 Actualmente estoy trabajando en la segunda fase del proyecto Web App AcompañaME (Proyecto Final presentado en 4Geeks Academy Venezuela) 
-- 🔭 Me desempeño como Ingeniero de Software en una institución financiera en Venezuela (Bancaribe), cumpliendo mi objetivo de transición ee carrera en esta étapa inicial
+- 🔭 Actualmente estoy trabajando en el diseño y desarrollo de aplicaciones de IA (Machine Learning) en el ambito de las Neurociencias (Mapeo Cerebral y Neurofeedback) asi como en la segunda fase del Proyecto Web App AcompañaME (Salud) (Proyecto Final presentado en 4Geeks Academy Venezuela) 
+- 🔭 Me desempeño como Ingeniero de Software en una institución financiera en Venezuela (Bancaribe), cumpliendo mi objetivo de transición de carrera en esta étapa inicial, actualmente participando con el equipo de Ingenieria TI en el desarrollo del Proyecto de Migración de la herramienta API Manager de WSO2 vers. 4.2.0. 
 - 🌱 Soy una persona altamente motivada por aprender y superarse a si mismo, por lo que me encuentro constantemente estudiando algún tópico que fortalezca mi perfil profesional y personal (Siempre con perspectiva integral) acerca de los siguientes temas y áreas del conocimiento: Inteligencia Artificial + Aprendizaje Automatico + Algoritmos + Estructuras de Datos + Liderazgo Consciente + Mindset Agil + Management + IOT + Healthcare + Longevidad y Bienestar 
 
 
