@@ -1,6 +1,6 @@
 ### Hola 👋, Soy Richard Jardine
 #### Bienvenido! 
-[¡Busco oportunidades como Frontend Developer y Machine Learning Developer! ] ![Banner](assets/img/github-header-image.png) 
+[¡Busco oportunidades como Frontend Developer y Machine Learning Developer! ] ![Banner](assets/img/github-header-image (2).png) 
 *[LearnPack](https://www.learnpack.co/)*
 
 En este espacio podrás conocer mis proyectos en desarrollo de software y otras áreas de tecnología
