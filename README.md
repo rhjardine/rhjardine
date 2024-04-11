@@ -1,14 +1,13 @@
 ### Hola 👋, Soy Richard Jardine
 #### Bienvenido! 
-(assets/img/RJ-banner-github.jpg) 
-
-[¡Busco oportunidades como Frontend Developer y Machine Learning Developer! ] 
-
+### Hola 👋, Soy Richard Jardine
+#### Bienvenido! 
+![Busco oportunidades como Frontend Developer ](./assets/img/RJ-banner-github.jpg)
 En este espacio podrás conocer mis proyectos en desarrollo de software y otras áreas de tecnología
 
-Soy un profesional responsable, curioso del conocimiento, proactivo y multidisciplinar. 
+Soy un profesional responsable, curioso del conocimiento, proactivo y multidisciplinar.
 
-<!-- Habilidades: Java / JavaScript / ReactJS / Python / HTML / CSS / Flask / SQL / AGILE COACHING / SCRUM / KANBAN /  -->
+<!-- Habilidades: ./ JavaScript / ReactJS / Python / HTML / CSS / Java / Flask / SQL / Agile / Scrum / Kanban / IA/ML/DL /-->
 
 
 - 🔭 Actualmente estoy trabajando en el diseño y desarrollo de aplicaciones de IA (Machine Learning) en el ambito de las Neurociencias (Mapeo Cerebral y Neurofeedback) asi como en la segunda fase del Proyecto Web App AcompañaME (Salud) (Proyecto Final presentado en 4Geeks Academy Venezuela) 
