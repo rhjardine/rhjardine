@@ -2,6 +2,7 @@
 #### Bienvenido! 
 
 ![Busco oportunidades como Frontend Developer ](./assets/img/RJ-banner-github.jpg)
+
 En este espacio podrás conocer mis proyectos en desarrollo de software y otras áreas de tecnología
 
 Soy un profesional responsable, curioso del conocimiento, proactivo y multidisciplinar.
