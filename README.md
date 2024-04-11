@@ -1,6 +1,7 @@
 ### Hola 👋, Soy Richard Jardine
 #### Bienvenido! 
-![Busco oportunidades como Frontend Developer y Machine Learning Developer ]( https://github.com/rhjardine/rhjardine/tree/main/assets/img) 
+![Busco oportunidades como Frontend Developer y Machine Learning Developer ]
+( https://github.com/rhjardine/rhjardine/tree/main/assets/img) 
 
 En este espacio podrás conocer mis proyectos en desarrollo de software y otras áreas de tecnología
 
