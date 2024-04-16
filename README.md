@@ -1,7 +1,7 @@
 ### Hola 👋, Soy Richard Jardine
 #### Bienvenido! 
 
-![Busco oportunidades como Software Engineer ML ](./assets/img/AI GitHub1.jpg)  
+![Busco oportunidades como Software Engineer ML ](./assets/img/AI GitHub.jpg)  
 
 En este espacio podrás conocer mis proyectos en desarrollo de software y otras áreas de tecnología
 
