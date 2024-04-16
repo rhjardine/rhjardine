@@ -10,9 +10,38 @@ Soy un profesional responsable, curioso del conocimiento, proactivo y multidisci
 <!-- Habilidades: ./ JavaScript / ReactJS / Python / HTML / CSS / Java / Flask / SQL / Agile / Scrum / Kanban / IA/ML/DL /-->
 
 
-- 🔭 Actualmente estoy trabajando en el diseño y desarrollo de aplicaciones de IA (Machine Learning) en el ambito de las Neurociencias (Mapeo Cerebral y Neurofeedback) asi como en la segunda fase del Proyecto Web App AcompañaME (Salud) (Proyecto Final presentado en 4Geeks Academy Venezuela) 
-- 🔭 Me desempeño como Ingeniero de Software en una institución financiera en Venezuela (Bancaribe), cumpliendo mi objetivo de transición de carrera en esta étapa inicial, actualmente participando con el equipo de Ingenieria TI en el desarrollo del Proyecto de Migración de la herramienta API Manager de WSO2 vers. 4.2.0. 
-- 🌱 Soy una persona altamente motivada por aprender y superarse a si mismo, por lo que me encuentro constantemente estudiando algún tópico que fortalezca mi perfil profesional y personal (Siempre con perspectiva integral) acerca de los siguientes temas y áreas del conocimiento: Inteligencia Artificial + Aprendizaje Automatico + Algoritmos + Estructuras de Datos + Liderazgo Consciente + Mindset Agil + Management + IOT + Healthcare + Longevidad y Bienestar 
+- 🚀 Actualmente estoy:
+
+- Desarrollando aplicaciones de IA (Machine Learning) para el ámbito de las Neurociencias: Explorando el potencial de la IA en el mapeo cerebral y el neurofeedback para mejorar la salud y el bienestar.
+- Liderando la segunda fase del Proyecto Web App AcompañaME (Salud): Implementando una plataforma digital para brindar apoyo emocional y psicológico a personas en situación de vulnerabilidad.
+- Trabajando como Ingeniero de Software en Bancaribe: Participando en el desarrollo del Proyecto de Migración de la herramienta API Manager de WSO2, contribuyendo a la modernización de la infraestructura tecnológica de la institución.
+
+🧠 Áreas de interés:
+Inteligencia Artificial (IA)
+Aprendizaje Automático (Machine Learning)
+Algoritmos
+Estructuras de Datos
+Neurociencias
+Mapeo Cerebral
+Neurofeedback
+Salud
+Bienestar
+Longevidad
+Liderazgo Consciente
+Mindset Ágil
+Management
+IoT
+
+🚀 Habilidades:
+Diseño y desarrollo de software
+Programación en Python, Java, JavaScript
+Implementación de modelos de Machine Learning
+Análisis de datos
+Trabajo en equipo
+Comunicación efectiva
+
+🔥 Motivación:
+Soy una persona altamente motivada por el aprendizaje y la superación personal. Me encuentro constantemente buscando nuevos conocimientos y desafíos que me permitan crecer como profesional y como individuo. Creo en el poder de la tecnología para transformar el mundo y estoy comprometido a utilizar mis habilidades para generar un impacto positivo en la sociedad.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rhjardine)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/rhjardine/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/richardjardine.official)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@richardjardineofficial/)  
