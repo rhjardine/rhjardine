@@ -7,12 +7,12 @@ En este espacio podrás conocer mis proyectos en desarrollo de software y otras 
 
 Soy un profesional responsable, curioso del conocimiento, proactivo y multidisciplinar.
 
-<!-- Habilidades: ./ JavaScript / ReactJS / Python / HTML / CSS / Java / Flask / SQL / Agile / Scrum / Kanban / IA/ML/DL /-->
+<!-- Habilidades: ./ JavaScript / ReactJS / Python / HTML / CSS / Java / Flask / SQL / Agile / Scrum / Kanban / Machine Learning/Deep Learning /-->
 
 
 - 🚀 Actualmente estoy:
 
-- Desarrollando aplicaciones de IA (Machine Learning) para el ámbito de las Neurociencias: Explorando el potencial de la IA en el mapeo cerebral y el neurofeedback para mejorar la salud y el bienestar.
+- :f5dc: Desarrollando aplicaciones de IA (Machine Learning) para el ámbito de las Neurociencias y Estimación de pacien: Explorando el potencial de la IA en el mapeo cerebral y el neurofeedback para mejorar la salud y el bienestar.
 - Liderando la segunda fase del Proyecto Web App AcompañaME (Salud): Implementando una plataforma digital para brindar apoyo emocional y psicológico a personas en situación de vulnerabilidad.
 - Trabajando como Ingeniero de Software en Bancaribe: Participando en el desarrollo del Proyecto de Migración de la herramienta API Manager de WSO2, contribuyendo a la modernización de la infraestructura tecnológica de la institución.
 
