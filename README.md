@@ -32,6 +32,7 @@ Aquí encontrarás mis proyectos en desarrollo de software y otras áreas de tec
 
 #### 🤖 Artificial Intelligence (IA) 
 - Machine Learning 📊
+- Deep Learning 
 - Algoritmos 🔍
 - Estructuras de Datos 📈
 - Neurociencias 🧠
@@ -39,9 +40,24 @@ Aquí encontrarás mis proyectos en desarrollo de software y otras áreas de tec
 - Neurofeedback 📡
 - Longevidad 💡
 - Salud y Bienestar 🌿
+
+#### Gerencia y liderazgo
+- Coaching Ejecutivo 
 - Liderazgo Consciente 🧘
 - Mindset Ágil 🏃
-- Gestión 📋
+- Gestión de Personas 📋
+
+🤖 Inteligencia Artificial (IA)
+Machine Learning 📊
+Deep Learning 🤖
+Algoritmos 🔍
+Estructuras de Datos 📈
+Neurociencias 🧠
+Mapeo Cerebral 🗺️
+Neurofeedback 📡
+Longevidad 💡
+Salud y Bienestar 🌿
+Gerencia y Liderazgo
 
  ## 🚀 Competencias:
 - **Lenguajes de programación:** Python, JavaScript
