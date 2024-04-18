@@ -1,7 +1,7 @@
 ### Hola 👋, Soy Richard Jardine
 #### Bienvenido! 
 
-![Busco oportunidades como Software Engineer ML ](./assets/img/_765beb9e-bd7f-4c75-b7c6-c44bd9134592.jpg)  
+<img src="./assets/img/_765beb9e-bd7f-4c75-b7c6-c44bd9134592.jpg" alt="Busco oportunidades como Software Engineer ML" width="250" height="250"/>
 
 Aquí encontrarás mis proyectos en desarrollo de software y otras áreas de tecnología. Me considero un profesional responsable, curioso por el conocimiento, proactivo y multidisciplinar.
 
