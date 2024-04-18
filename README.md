@@ -54,7 +54,7 @@ Desarrollar algoritmos que analicen grandes conjuntos de datos biomédicos, como
 - Gestión de Personas 📋
 
  ## 🚀 Competencias:
-- **Lenguajes de programación:** Python, JavaScript
+- **Lenguajes de programación:** Python, JavaScript, Java, Visual Basic
 - **Algoritmos de aprendizaje supervisado:** Regresión lineal, árboles de decisión, SVM
 - **Algoritmos de aprendizaje no supervisado:** K-means clustering, PCA
 - **Redes neuronales:** Aprendizaje profundo, CNN, RNN
