@@ -30,8 +30,7 @@ Aquí encontrarás mis proyectos en desarrollo de software y otras áreas de tec
 - Flask 🍶
 - NPM 📦
 
-🧠 **Áreas de interés:**
-- Inteligencia Artificial (IA) 🤖
+### 🤖 Artificial Intelligence (IA) 
 - Machine Learning 📊
 - Algoritmos 🔍
 - Estructuras de Datos 📈
@@ -44,7 +43,7 @@ Aquí encontrarás mis proyectos en desarrollo de software y otras áreas de tec
 - Mindset Ágil 🏃
 - Gestión 📋
 
-🚀 **Competencias:**
+ ## 🚀 Competencias:
 - **Lenguajes de programación:** Python, JavaScript
 - **Algoritmos de aprendizaje supervisado:** Regresión lineal, árboles de decisión, SVM
 - **Algoritmos de aprendizaje no supervisado:** K-means clustering, PCA
@@ -53,6 +52,12 @@ Aquí encontrarás mis proyectos en desarrollo de software y otras áreas de tec
 - **Visualización de datos:** Creación de gráficos, tablas y mapas para comunicar resultados
 - **Trabajo en equipo:** Comunicación efectiva y escucha activa
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rhjardine)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/rhjardine/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/richardjardine.official)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@richardjardineofficial/)  
+<a href="https://github.com/rhjardine" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='color:#333;'></a>
+<a href="https://www.linkedin.com/in/rhjardine/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='color:#0077B5;'></a>
+<a href="https://www.facebook.com/richardjardine.official" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' style='color:#4267B2;'></a>
+<a href="https://www.instagram.com/richardjardineofficial/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style='color:#E1306C;'></a>
+
 
 *[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhjardine)](https://github.com/anuraghazra/github-readme-stats)*
+
+🧠 **Áreas de interés:**
