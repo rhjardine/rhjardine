@@ -9,7 +9,7 @@ Soy un profesional responsable, curioso del conocimiento, proactivo y multidisci
 
 <!-- Habilidades: ./ Python/ JavaScript / ReactJS / HTML / CSS / Java / Flask / SQL Server / Agile / Scrum / Kanban / Machine Learning / Deep Learning /-->
 
--  Actualmente estoy:
+Actualmente en:
 
 - Desarrollando aplicaciones de IA (Machine Learning) para el ámbito de las Neurociencias y Estimación de pacien: Explorando el potencial de la IA en el mapeo cerebral y el neurofeedback para mejorar la salud y el bienestar.
 - 
@@ -20,7 +20,7 @@ Soy un profesional responsable, curioso del conocimiento, proactivo y multidisci
 
 ## Skills and Tools ⚙🔨
 <hr>
-
+https://fontawesome.com/icons/brain?f=sharp&s=solid
 #### **Frontend**
 
 |  HTML  |  CSS  |  Sass  |  Bootstrap  |  JavaScript  |  React  |  Flux  |  Webpack  |
