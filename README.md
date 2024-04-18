@@ -30,7 +30,7 @@ Aquí encontrarás mis proyectos en desarrollo de software y otras áreas de tec
 - Flask 🍶
 - NPM 📦
 
-### 🤖 Artificial Intelligence (IA) 
+#### 🤖 Artificial Intelligence (IA) 
 - Machine Learning 📊
 - Algoritmos 🔍
 - Estructuras de Datos 📈
