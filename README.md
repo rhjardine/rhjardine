@@ -59,8 +59,7 @@ Aquí encontrarás mis proyectos en desarrollo de software y otras áreas de tec
 <a href="https://github.com/rhjardine" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='color:#333;'></a>
 <a href="https://www.linkedin.com/in/rhjardine/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='color:#0077B5;'></a>
 <a href="https://www.facebook.com/richardjardine.official" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' style='color:#4267B2;'></a>
-<a href="https://www.instagram.com/richardjardineofficial/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style='color:#E1306C;'></a>
-
+<a href="https://www.instagram.com/richardjardineofficial/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style='color:#C13584;'></a>
 
 *[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhjardine)](https://github.com/anuraghazra/github-readme-stats)*
 
