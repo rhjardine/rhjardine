@@ -12,21 +12,9 @@ Soy un **Ingeniero de Software** entusiasta por la **tecnología** y la **innova
 - **Análisis de datos biomédicos**: Desarrollando algoritmos para analizar grandes conjuntos de datos biomédicos.
 - **Liderazgo en el Proyecto Web App AcompañaME (Salud)**: Implementando una plataforma digital para brindar apoyo emocional y psicológico.
 
-### Hola 👋, Soy Richard Jardine
-#### Bienvenido! 
-Aquí encontrarás mis proyectos en desarrollo de software y otras áreas de tecnología. Me considero un profesional responsable, curioso por el conocimiento, proactivo y multidisciplinar.
-**Actualmente estoy involucrado en:**
-- **Ingeniero de Software en Bancaribe:** Contribuyendo al Proyecto de Migración de la herramienta API Manager de WSO2, modernizando la infraestructura tecnológica de la institución.
-- **Desarrollo de aplicaciones de IA para Neurociencias:** Explorando el potencial de la IA en el mapeo cerebral y el neurofeedback para mejorar la salud y el bienestar.
-- ***Clasificación y agrupación de pacientes*** Utilizar algoritmos de aprendizaje automático, como k-means o clustering, para agrupar pacientes con características similares.  comorbilidades, marcadores biológicos y otros factores relevantes.
-- ***Predicción de resultados clínicos*** Seleccionar los modelos de IA adecuados para predecir resultados clínicos, como la progresión de enfermedades o la respuesta a tratamientos específicos asi como utilizar datos históricos de pacientes para predecir cómo evolucionarán en el futuro y qué intervenciones podrían ser más efectivas.
-- ***Análisis de datos biomédicos*** Desarrollar algoritmos que analicen grandes conjuntos de datos biomédicos, como imágenes médicas, secuencias genéticas y registros clínicos
-- **Liderazgo en el Proyecto Web App AcompañaME (Salud):** Implementando una plataforma digital para brindar apoyo emocional y psicológico a personas en situación de vulnerabilidad.
-
 ## ⚙🔨 Habilidades y Herramientas 
 ### Frontend
 🌐 HTML 
-	@@ -43,9 +43,9 @@ Desarrollar algoritmos que analicen grandes conjuntos de datos biomédicos, como
 🔍 Algoritmos 
 📈 Estructuras de Datos
 🧠 Neurociencias:
