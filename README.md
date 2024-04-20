@@ -16,7 +16,7 @@ Seleccionar los modelos de IA adecuados para predecir resultados clínicos, como
 Desarrollar algoritmos que analicen grandes conjuntos de datos biomédicos, como imágenes médicas, secuencias genéticas y registros clínicos
 - **Liderazgo en el Proyecto Web App AcompañaME (Salud):** Implementando una plataforma digital para brindar apoyo emocional y psicológico a personas en situación de vulnerabilidad.
 
-## Habilidades y Herramientas ⚙🔨
+## ⚙🔨 Habilidades y Herramientas 
 
 ### Frontend
 🌐 HTML 
@@ -43,9 +43,9 @@ Desarrollar algoritmos que analicen grandes conjuntos de datos biomédicos, como
 🔍 Algoritmos 
 📈 Estructuras de Datos
 🧠 Neurociencias:
-** 🗺️ Mapeo Cerebral 
-** 📡 Neurofeedback
-** 💡 Longevidad
+🗺️ Mapeo Cerebral 
+📡 Neurofeedback
+💡 Longevidad
 
 ### Gerencia 
 🙌 Coaching Ejecutivo 
@@ -63,12 +63,12 @@ Desarrollar algoritmos que analicen grandes conjuntos de datos biomédicos, como
 - **Visualización de datos:** Creación de gráficos, tablas y mapas para comunicar resultados
 - **Trabajo y facilitación de Equipos:** Comunicación efectiva, escucha activa y colaboración.
 
-- ## 🧠 Áreas de interés:
-- **Innovación Tecnológica**
-- **Ingeniería de Software ML en Banca y Fintech**
-- **Bioinformática**
-- **Inteligencia Artificial en Neuróciencias**
-- **Investigación y Desarrollo en Biotecnología**
+- ##  Áreas de interés:
+🚀 Innovación Tecnológica: 
+📊 Ingeniería de Software ML en Banca y Fintech: 
+🧬 Bioinformática:
+🧠 Inteligencia Artificial en Neuróciencias: 
+🧪 Investigación y Desarrollo en Biotecnología:
 
 <a href="https://github.com/rhjardine" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='color:#333;'></a>
 <a href="https://www.linkedin.com/in/rhjardine/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='color:#0077B5;'></a>
