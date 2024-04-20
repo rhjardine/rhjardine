@@ -43,10 +43,9 @@ Desarrollar algoritmos que analicen grandes conjuntos de datos biomédicos, como
 🔍 Algoritmos 
 📈 Estructuras de Datos
 🧠 Neurociencias:
-## 🗺️ Mapeo Cerebral 
-## 📡 Neurofeedback
-## 🌿 Salud
-## 💡 Longevidad
+** 🗺️ Mapeo Cerebral 
+** 📡 Neurofeedback
+** 💡 Longevidad
 
 ### Gerencia 
 🙌 Coaching Ejecutivo 
@@ -65,11 +64,11 @@ Desarrollar algoritmos que analicen grandes conjuntos de datos biomédicos, como
 - **Trabajo y facilitación de Equipos:** Comunicación efectiva, escucha activa y colaboración.
 
 - ## 🧠 Áreas de interés:
-- Innovación Tecnológica 
-- Ingeniería de Software ML en Banca y Fintech
-- Bioinformática
-- Inteligencia Artificial en Neuróciencias
-- Investigación y Desarrollo en Biotecnología
+- **Innovación Tecnológica**
+- **Ingeniería de Software ML en Banca y Fintech**
+- **Bioinformática**
+- **Inteligencia Artificial en Neuróciencias**
+- **Investigación y Desarrollo en Biotecnología**
 
 <a href="https://github.com/rhjardine" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='color:#333;'></a>
 <a href="https://www.linkedin.com/in/rhjardine/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='color:#0077B5;'></a>
