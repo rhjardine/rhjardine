@@ -22,13 +22,13 @@ Soy un **Ingeniero de Software** entusiasta por la **tecnología** y la **innova
 📡 Neurofeedback
 💡 Longevidad
 
-### Gerencia 
-- 🙌 Coaching Ejecutivo 
--	**Desarrollar algoritmos que analicen grandes conjuntos de datos biomédicos, como
-- **Visualización de datos:** Creación de gráficos, tablas y mapas para comunicar resultados
-- **Trabajo y facilitación de Equipos:** Comunicación efectiva, escucha activa y colaboración.
+### Gerencia
+🙌 Coaching Ejecutivo
+🧘 Liderazgo Consciente
+🏃 Metodologías Ágiles 
+📋 Gestión de Equipos
 
-- ##  Áreas de interés:
+##  Áreas de interés:
 🚀 Innovación Tecnológica: 
 📊 Ingeniería de Software ML en Banca y Fintech: 
 🧬 Bioinformática:
