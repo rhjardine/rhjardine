@@ -8,50 +8,48 @@ Aquí encontrarás mis proyectos en desarrollo de software y otras áreas de tec
 **Actualmente estoy involucrado en:**
 - **Ingeniero de Software en Bancaribe:** Contribuyendo al Proyecto de Migración de la herramienta API Manager de WSO2, modernizando la infraestructura tecnológica de la institución.
 - **Desarrollo de aplicaciones de IA para Neurociencias:** Explorando el potencial de la IA en el mapeo cerebral y el neurofeedback para mejorar la salud y el bienestar.
-- **Clasificación y agrupación de pacientes**
+- ***Clasificación y agrupación de pacientes***
 Utilizar algoritmos de aprendizaje automático, como k-means o clustering, para agrupar pacientes con características similares.  comorbilidades, marcadores biológicos y otros factores relevantes.
-- **Predicción de resultados clínicos**
+- ***Predicción de resultados clínicos***
 Seleccionar los modelos de IA adecuados para predecir resultados clínicos, como la progresión de enfermedades o la respuesta a tratamientos específicos asi como utilizar datos históricos de pacientes para predecir cómo evolucionarán en el futuro y qué intervenciones podrían ser más efectivas.
-- **Análisis de datos biomédicos**
+- ***Análisis de datos biomédicos***
 Desarrollar algoritmos que analicen grandes conjuntos de datos biomédicos, como imágenes médicas, secuencias genéticas y registros clínicos
 - **Liderazgo en el Proyecto Web App AcompañaME (Salud):** Implementando una plataforma digital para brindar apoyo emocional y psicológico a personas en situación de vulnerabilidad.
 
 ## Habilidades y Herramientas ⚙🔨
 
-#### Frontend:
-- HTML 🌐
-- CSS 🎨
-- JavaScript 📜
-- Bootstrap 🥾
-- React ⚛️
-- Webpack 📦
+### Frontend
+🌐 HTML 
+🎨 CSS:
+📜 JavaScript:
+🥾 Bootstrap: 
+⚛️ React:
+📦 Webpack:
 
-#### Backend:
-- Python 🐍
-- Java ☕
-- PostgreSQL 🐘
-- SQL 🗄️
-- SQLAlchemy 🛢️
-- REST API 🌐
-- Flask 🍶
-- NPM 📦
+### Backend
+🐍 Python:
+☕ Java: 
+🐘 PostgreSQL:
+🗄️ SQL: 
+🛢️ SQLAlchemy:
+🌐 REST API: 
+🍶 Flask: 
+📦 NPM: Imagen NPM:
 
-#### 🤖 Artificial Intelligence (IA) 
-- Machine Learning 📊
-- Deep Learning 🤖
-- Algoritmos 🔍
-- Estructuras de Datos 📈
-- Neurociencias 🧠
-- Mapeo Cerebral 🗺️
-- Neurofeedback 📡
-- Longevidad 💡
-- Salud y Bienestar 🌿
-
-#### Gerencia y liderazgo
-- Coaching Ejecutivo 🙌
-- Liderazgo Consciente 🧘
-- Mindset Ágil 🏃
-- Gestión de Personas 📋
+### Inteligencia Artificial
+📊 Machine Learning:
+🤖 Deep Learning:
+🔍 Algoritmos: 
+📈 Estructuras de Datos:
+🧠 Neurociencias:
+🗺️ Mapeo Cerebral: 
+📡 Neurofeedback:
+🌿 Salud
+💡 Longevidad:
+🙌 Coaching Ejecutivo: 
+🧘 Liderazgo Consciente: 
+🏃 Mindset Ágil: 
+📋 Gestión de Personas:
 
  ## 🚀 Competencias:
 - **Lenguajes de programación:** Python, JavaScript, Java, Visual Basic
@@ -64,7 +62,8 @@ Desarrollar algoritmos que analicen grandes conjuntos de datos biomédicos, como
 
 - ## 🧠 Áreas de interés:
 - Banca y Fintech
-- Genomica y Biología Celular
+- Genómica y Biología Celular
+- Neuróciencias Aplicada
 - Biotecnología
 
 <a href="https://github.com/rhjardine" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='color:#333;'></a>
