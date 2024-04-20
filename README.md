@@ -32,6 +32,9 @@ Soy un **Ingeniero de Software** entusiasta por la **tecnología** y la **innova
 🍶 Flask
 📦 NPM
 
+### Inteligencia Artificial
+📊 Machine Learning 🤖 Deep Learning 🔍 Algoritmos 📈 Large Language Models (LLN) 
+
 ### Gerencia
 🙌 Coaching Ejecutivo
 🧘 Liderazgo Consciente
@@ -41,8 +44,8 @@ Soy un **Ingeniero de Software** entusiasta por la **tecnología** y la **innova
 ##  Áreas de interés:
 🚀 Innovación Tecnológica: 
 📊 Ingeniería de Software ML en Banca y Fintech: 
-🧬 Bioinformática:
-🧠 Inteligencia Artificial en Neuróciencias: 
+🧬 Bioinformática: Genomica y Longevidad
+🧠 Inteligencia Artificial en Neuróciencias: 🧠 Neurociencias: 🗺️ Mapeo Cerebral 📡 Neurofeedback 
 🧪 Investigación y Desarrollo en Biotecnología:
 
 <a href="https://github.com/rhjardine" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='color:#333;'></a>
