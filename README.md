@@ -14,13 +14,23 @@ Soy un **Ingeniero de Software** entusiasta por la **tecnología** y la **innova
 
 ## ⚙🔨 Habilidades y Herramientas 
 ### Frontend
-🌐 HTML 
-🔍 Algoritmos 
-📈 Estructuras de Datos
-🧠 Neurociencias:
-🗺️ Mapeo Cerebral 
-📡 Neurofeedback
-💡 Longevidad
+🌐 HTML
+🎨 CSS
+📜 JavaScript
+🥾 Bootstrap
+⚛️ React
+📦 Webpack
+
+### Backend
+🐍 Python
+📜 JavaScript
+☕ Java
+🐘 PostgreSQL
+🗄️ SQL
+🛢️ SQLAlchemy
+🌐 REST API
+🍶 Flask
+📦 NPM
 
 ### Gerencia
 🙌 Coaching Ejecutivo
