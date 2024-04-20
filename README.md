@@ -28,43 +28,48 @@ Desarrollar algoritmos que analicen grandes conjuntos de datos biomédicos, como
 
 ### Backend
 🐍 Python:
+📜 JavaScript:
 ☕ Java: 
 🐘 PostgreSQL:
 🗄️ SQL: 
 🛢️ SQLAlchemy:
 🌐 REST API: 
 🍶 Flask: 
-📦 NPM: Imagen NPM:
+📦 NPM:
 
 ### Inteligencia Artificial
-📊 Machine Learning:
-🤖 Deep Learning:
-🔍 Algoritmos: 
-📈 Estructuras de Datos:
+📊 Machine Learning
+🤖 Deep Learning
+🔍 Algoritmos 
+📈 Estructuras de Datos
 🧠 Neurociencias:
-🗺️ Mapeo Cerebral: 
-📡 Neurofeedback:
-🌿 Salud
-💡 Longevidad:
-🙌 Coaching Ejecutivo: 
-🧘 Liderazgo Consciente: 
-🏃 Mindset Ágil: 
-📋 Gestión de Personas:
+## 🗺️ Mapeo Cerebral 
+## 📡 Neurofeedback
+## 🌿 Salud
+## 💡 Longevidad
+
+### Gerencia 
+🙌 Coaching Ejecutivo 
+🧘 Liderazgo Consciente 
+🏃 Metodologías Ágiles 
+📋 Gestión de Equipos
 
  ## 🚀 Competencias:
+- **Gerencia y Liderazgo de Servicios:** 
 - **Lenguajes de programación:** Python, JavaScript, Java, Visual Basic
 - **Algoritmos de aprendizaje supervisado:** Regresión lineal, árboles de decisión, SVM
 - **Algoritmos de aprendizaje no supervisado:** K-means clustering, PCA
 - **Redes neuronales:** Aprendizaje profundo, CNN, RNN
 - **Herramientas de análisis de datos:** Python con pandas, R, SQL, Tableau
 - **Visualización de datos:** Creación de gráficos, tablas y mapas para comunicar resultados
-- **Trabajo en equipo:** Comunicación efectiva y escucha activa
+- **Trabajo y facilitación de Equipos:** Comunicación efectiva, escucha activa y colaboración.
 
 - ## 🧠 Áreas de interés:
-- Banca y Fintech
-- Genómica y Biología Celular
-- Neuróciencias Aplicada
-- Biotecnología
+- Innovación Tecnológica 
+- Ingeniería de Software ML en Banca y Fintech
+- Bioinformática
+- Inteligencia Artificial en Neuróciencias
+- Investigación y Desarrollo en Biotecnología
 
 <a href="https://github.com/rhjardine" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='color:#333;'></a>
 <a href="https://www.linkedin.com/in/rhjardine/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='color:#0077B5;'></a>
