@@ -37,7 +37,8 @@ Soy un **Ingeniero de Software** entusiasta de la **tecnología** y la **innovac
 - 📊 Machine Learning
 - 🤖 Deep Learning
 - 🔍 Algoritmos
-- 📈 Large Language Models (LLN) 
+- 📈 Large Language Models (LLN)
+- && Digital Twins
 
 ### Gerencia
 - 🙌 Coaching Ejecutivo
