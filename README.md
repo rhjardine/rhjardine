@@ -1,6 +1,6 @@
 👨‍💻 Richard Jardine
 ​Software Engineer ➔ AI, Deep Learning & BioTech Explorer 🧬
-​💼 LinkedIn ｜ 🐦 X / Twitter ｜ ✉️ Email
+​💼 [LinkedIn](https://www.linkedin.com/in/rhjardine/) ｜ 🐦 [X / Twitter](https://x.com/richardjardine) ｜ ✉️rhjardine@gmail.com
 ​🎯 El Pivot: De la Arquitectura Empresarial a la Longevidad Humana
 ​Soy un Ingeniero de Software forjado en la exigente y estructurada industria bancaria venezolana. Hace más de 3 años tomé una decisión estratégica: pivotar mi carrera para alinear mi experiencia técnica con mi verdadero propósito: la intersección entre la tecnología y la biología humana.
 ​Hoy, combino la disciplina de diseñar sistemas de alta disponibilidad (como la modernización de infraestructuras críticas en la banca) con la investigación y aplicación de modelos matemáticos y algorítmicos complejos.
