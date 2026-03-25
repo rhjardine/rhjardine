@@ -1,4 +1,10 @@
-👋 Hola, soy Richard Jardine
+[13:41, 24/3/2026] Richard Jardine: MODIFICAR]
+ResultadoScorePage.tsx
+Cambiar el degradado de fondo —que actualmente es de un caoba extremadamente oscuro— por un tono tierra más suave y claro (linear-gradient(160deg, #8B7355 0%, #5C4A32 100%)).
+[MODIFICAR]
+ConsultaExploratoriaPage.tsx
+Aumentar el tamaño del logotipo de "Doctor…
+[22:27, 24/3/2026] Richard Jardine: 👋 Hola, soy Richard Jardine
 ​Software Engineer | AI & Deep Learning Explorer | BioTech & Longevity Enthusiast
 ​🧬 Sobre mí: De la Arquitectura Empresarial a la Frontera de la Salud
 ​Soy un Ingeniero de Software con una sólida base forjada en la exigente y estructurada industria bancaria venezolana. Hace más de 3 años tomé la decisión estratégica de pivotar mi carrera para alinear mi pasión por la tecnología con mi propósito vital: mejorar la salud y extender la calidad de vida humana.
