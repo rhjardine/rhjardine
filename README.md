@@ -1,31 +1,30 @@
-[13:41, 24/3/2026] Richard Jardine: MODIFICAR]
-ResultadoScorePage.tsx
-Cambiar el degradado de fondo —que actualmente es de un caoba extremadamente oscuro— por un tono tierra más suave y claro (linear-gradient(160deg, #8B7355 0%, #5C4A32 100%)).
-[MODIFICAR]
-ConsultaExploratoriaPage.tsx
-Aumentar el tamaño del logotipo de "Doctor…
-[22:27, 24/3/2026] Richard Jardine: 👋 Hola, soy Richard Jardine
-​Software Engineer | AI & Deep Learning Explorer | BioTech & Longevity Enthusiast
-​🧬 Sobre mí: De la Arquitectura Empresarial a la Frontera de la Salud
-​Soy un Ingeniero de Software con una sólida base forjada en la exigente y estructurada industria bancaria venezolana. Hace más de 3 años tomé la decisión estratégica de pivotar mi carrera para alinear mi pasión por la tecnología con mi propósito vital: mejorar la salud y extender la calidad de vida humana.
-​Combino la disciplina de crear sistemas de alta disponibilidad (como migraciones críticas de API Managers) con la curiosidad científica necesaria para adentrarme en algoritmos complejos.
-​Actualmente enfocado en:
-​🧠 Inteligencia Artificial Biomédica: Deep Learning aplicado a mapeo cerebral y neurofeedback.
-​🤖 AI Agéntica (Agentic AI): Creación de sistemas autónomos para investigación biotecnológica.
-​🧬 Medicina Personalizada y Antienvejecimiento: Análisis de grandes conjuntos de datos genómicos y biomédicos.
-​⚛️ Computación Cuántica: Explorando sus futuras aplicaciones en el descubrimiento de fármacos.
-​🛠️ Stack Tecnológico y Herramientas
-​He dividido mis habilidades entre mi núcleo de ingeniería de software y mis áreas de especialización en datos e IA:
-​Software Engineering & Backend (Enterprise)
-​AI, Machine Learning & Data Science
-​Management & Soft Skills
-​💡 Coaching Ejecutivo | Liderazgo Consciente | Metodologías Ágiles | Gestión de Equipos Multidisciplinares
-​🚀 Proyectos e Iniciativas
-​🔬 Frontera Tecnológica: Biomedicina e IA
-​Neurofeedback & AI Mapping: Exploración del potencial de la IA en el mapeo cerebral para potenciar la salud mental y el bienestar integral.
-​Clustering Predictivo de Pacientes: Desarrollo e implementación de algoritmos de Machine Learning (agrupación) para identificar cohortes de pacientes con características clínicas similares.
-​Data Science Biomédico: Creación de pipelines y algoritmos enfocados en la ingesta, limpieza y análisis de grandes volúmenes de datos orientados a la medicina antienvejecimiento.
-​🏦 Ingeniería de Software & Arquitectura (Bancaria)
-​Modernización de Infraestructura API (Bancaribe): Ingeniero clave en la migración de la herramienta API Manager de WSO2. Responsable de asegurar la continuidad operativa, seguridad y modernización de la arquitectura tecnológica de la institución.
-​📈 GitHub Stats
-​"La intersección entre el código riguroso y la biología es donde se escribirá el próximo gran capítulo de la humanidad."
+👨‍💻 Richard Jardine
+​Software Engineer ➔ AI, Deep Learning & BioTech Explorer 🧬
+​💼 LinkedIn ｜ 🐦 X / Twitter ｜ ✉️ Email
+​🎯 El Pivot: De la Arquitectura Empresarial a la Longevidad Humana
+​Soy un Ingeniero de Software forjado en la exigente y estructurada industria bancaria venezolana. Hace más de 3 años tomé una decisión estratégica: pivotar mi carrera para alinear mi experiencia técnica con mi verdadero propósito: la intersección entre la tecnología y la biología humana.
+​Hoy, combino la disciplina de diseñar sistemas de alta disponibilidad (como la modernización de infraestructuras críticas en la banca) con la investigación y aplicación de modelos matemáticos y algorítmicos complejos.
+​Mi enfoque actual:
+​🧠 Neurotecnología & IA: Deep Learning aplicado al mapeo cerebral y neurofeedback.
+​🧬 Biotecnología & Longevidad: Análisis de datos biomédicos y genómicos para medicina personalizada antienvejecimiento.
+​🤖 AI Agéntica: Creación de ecosistemas de agentes autónomos para investigación científica.
+​⚛️ Computación Cuántica: Explorando el futuro del descubrimiento de fármacos.
+​🛠️ Stack Tecnológico Principal
+​(Integrando la robustez del Software Engineering con la frontera del Data Science)
+​<div align="center">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,ts,docker,git,tensorflow,pytorch,linux,bash%26perline%3D8" alt="Tech Stack" />
+</div>
+​🚀 Proyectos e Iniciativas Destacadas
+​🔬 Frontera Científica (Salud & IA)
+​Neurofeedback Predictivo: Explorando el uso de IA en el análisis de ondas cerebrales para mejorar protocolos de salud mental y bienestar.
+​Clustering de Pacientes: Desarrollo de algoritmos de Machine Learning no supervisado para identificar cohortes de pacientes con características clínicas similares y optimizar tratamientos.
+​Data Pipelines para Biomedicina: Arquitectura e ingesta de grandes volúmenes de datos orientados a estudios de longevidad.
+​🏦 Ingeniería Empresarial (Bancaribe)
+​Modernización Core (API Manager): Ingeniero clave en la migración de la herramienta API Manager de WSO2, garantizando la seguridad, continuidad operativa y escalabilidad de la infraestructura de servicios del banco.
+​📊 Actividad en GitHub
+​<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Drhjardine%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26text_color%3DC9D1D9%26title_color%3D58A6FF" alt="Estadísticas de Richard" />
+</div>
+​<div align="center">
+<i>"El código más importante que escribiremos en esta década será aquel que nos ayude a descifrar nuestra propia biología."</i>
+</div>
